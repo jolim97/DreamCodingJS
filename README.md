@@ -1,7 +1,5 @@
 # Dream Coding JavaScript (ES5+)
 
----
-
 ## Contents
 
 #### Youtube lectures ([url](https://youtube.com/playlist?list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2))
